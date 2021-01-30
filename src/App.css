@@ -1,0 +1,22 @@
+.App {
+  margin: 2% 2%;
+  width: 50%;
+  display: block;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mr-auto {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1em;
+  color: black;
+  font-weight: bold;
+}
+.ident {
+  font-family: fantasy;
+  font-size: 1em;
+  color: black;
+}
+.navb {
+  background-color: darkgray !important;
+}
